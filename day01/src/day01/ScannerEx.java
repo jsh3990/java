@@ -13,7 +13,7 @@ public class ScannerEx {
         //nextLine() - 문자열 입력 - 공백 포함해서
         //nextInt() - 정수 입력
         //nextDouble() - 실수 입력
-        System.out.print("나이을 입력해봐>");
+        System.out.print(" 이름을 입력해봐>");
         String name = scan.next();
 
         System.out.print("나이를 입력해봐>");
